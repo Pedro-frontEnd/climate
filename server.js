@@ -4,7 +4,7 @@ const express = require('express')
 const openweather = require('./openweather')
 
 const app = express()
-const port = 3333
+const port = process.env.PORT
 
 app.use(express.json())
 app.use(express.static("public"))
