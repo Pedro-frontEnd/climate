@@ -1,0 +1,8 @@
+{
+  "name": "climatepage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Pedro-frontEnd/climate.git",
+  "author": "Pedro-frontEnd <pedro.contato.email@gmail.com>",
+  "license": "MIT"
+}
